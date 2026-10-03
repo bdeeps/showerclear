@@ -1,0 +1,918 @@
+{
+ "title": "The history of the shower",
+ "tagline": "4,500 years from a jar of water poured on a brick floor to a valve that mixes, measures and protects.",
+ "intro": "People have always washed under falling water, from waterfalls to a jug tipped by a servant. A real shower needed three things that arrived much later: water under pressure in a pipe, a way to heat it on demand, and a valve to mix the two safely. Prison doctors and public health reformers built the first modern showers to wash many people with little water. The twentieth century then made the mixer clever and, in the end, started counting the litres.",
+ "eras": [
+  {
+   "id": "pour",
+   "name": "Poured and piped",
+   "from": -2500,
+   "to": 1700,
+   "color": "#c49bff",
+   "summary": "Bathing floors with drains in the Indus cities, and showers fed by pipes in Greek gymnasia. When the aqueducts fail, so does the shower."
+  },
+  {
+   "id": "pump",
+   "name": "Pumped by hand",
+   "from": 1767,
+   "to": 1860,
+   "color": "#ffb547",
+   "summary": "English inventors build showers that lift water with a hand pump and drop it from a tank overhead. They are cold, and the water goes round again."
+  },
+  {
+   "id": "people",
+   "name": "Showers for everyone",
+   "from": 1860,
+   "to": 1912,
+   "color": "#5ce1a9",
+   "summary": "Piped water and the geyser arrive. Doctors put showers in prisons, barracks and public baths because they wash more people with less water."
+  },
+  {
+   "id": "clever",
+   "name": "The mixer gets clever",
+   "from": 1913,
+   "to": 1975,
+   "color": "#8ef0ff",
+   "summary": "Thermostatic valves, the wax capsule, the pressure-balancing spool, the hand shower and the single lever turn the shower into a safe, adjustable household fitting."
+  },
+  {
+   "id": "count",
+   "name": "Counting litres and degrees",
+   "from": 1976,
+   "to": 2026,
+   "color": "#ff7a59",
+   "summary": "Laws and labels limit the flow, standards limit the temperature, and makers learn to do more with less water."
+  }
+ ],
+ "events": [
+  {
+   "year": -2500,
+   "date": "c. 2500 BCE",
+   "era": "pour",
+   "art": "waterdrop",
+   "key": true,
+   "title": "Bathing floors with drains",
+   "who": "Builders of the Indus cities",
+   "where": "Mohenjo-daro and Harappa (today Pakistan)",
+   "country": "Pakistan",
+   "text": "Many houses in the Indus cities had a bathing platform: a floor of bricks set on edge so tightly that it held water, sloping to a small drain that ran out to the street. Water jars found beside them suggest that people bathed by pouring water over themselves.",
+   "why": "A sloping floor, a drain and poured water: the bucket bath and the bathroom floor trap are 4,500 years old.",
+   "box": "anatomy",
+   "sources": [
+    1,
+    2
+   ]
+  },
+  {
+   "year": -520,
+   "date": "c. 520–510 BCE",
+   "era": "pour",
+   "art": "person",
+   "key": true,
+   "title": "Showers painted on a Greek jar",
+   "who": "Attributed to the Antimenes Painter",
+   "where": "Athens, Greece",
+   "country": "Greece",
+   "text": "A black-figure water jar now in Leiden shows a man and youths washing in a fountain house, standing under streams of water that pour from spouts shaped like panthers' heads.",
+   "why": "It is the oldest clear picture of people showering under falling water, fed by pipes and not by a servant with a jug.",
+   "sources": [
+    3,
+    0
+   ]
+  },
+  {
+   "year": -180,
+   "date": "2nd century BCE",
+   "era": "pour",
+   "art": "building",
+   "title": "Shower rooms at Pergamon",
+   "who": "Greek city builders",
+   "where": "Pergamon (today Bergama, Türkiye)",
+   "country": "Türkiye",
+   "text": "The gymnasium at Pergamon is described as having communal washrooms where piped water ran into overhead basins and fell on the bathers. The Romans later built heated bath houses across their empire, but they preferred to soak.",
+   "why": "Running water under pressure made a shower possible. When the aqueducts fell out of use, the shower disappeared with them.",
+   "sources": [
+    0
+   ]
+  },
+  {
+   "year": 1767,
+   "date": "1767",
+   "era": "pump",
+   "art": "wrench",
+   "key": true,
+   "title": "The first patented shower",
+   "who": "William Feetham",
+   "where": "London, England",
+   "country": "United Kingdom",
+   "text": "William Feetham, a stove maker of Ludgate Hill, patented a mechanical shower. The bather stood in a basin and worked a hand pump that lifted water to a small tank overhead, then pulled a chain to tip it out.",
+   "why": "It used far less water than a bath, and one person could work it alone. But the water was cold, and the same water went round again and again.",
+   "sources": [
+    0,
+    4
+   ]
+  },
+  {
+   "year": 1810,
+   "date": "c. 1810",
+   "era": "pump",
+   "art": "person",
+   "title": "The English Regency shower",
+   "who": "Unknown maker",
+   "where": "England",
+   "country": "United Kingdom",
+   "text": "An improved pumped shower appeared in England: a frame over three metres tall, built of metal pipes painted to look like bamboo. A hand pump pushed water from the basin up the pipes to a tank, and a lever let it fall through a nozzle. The inventor is not known.",
+   "why": "It showed the full circuit of a shower: a supply, a riser, a head and a drain. Only pressure in the pipes was missing. From about 1850, reliable indoor plumbing let such showers be joined to running water.",
+   "sources": [
+    0,
+    4
+   ]
+  },
+  {
+   "year": 1868,
+   "date": "1868",
+   "era": "people",
+   "art": "geyser",
+   "title": "Hot water at the turn of a tap",
+   "who": "Benjamin Waddy Maughan",
+   "where": "London, England",
+   "country": "United Kingdom",
+   "text": "Maughan invented a gas water heater for the home: cold water ran down through pipes heated by the hot gases of a burner below, and came out hot. He named it the geyser, after the Icelandic hot spring. It had no flue, so it could be dangerous.",
+   "why": "A shower needs warm water on demand. The geyser, a word still used across India, made that possible without a fire and a kettle.",
+   "box": "water",
+   "sources": [
+    12,
+    13
+   ]
+  },
+  {
+   "year": 1872,
+   "date": "1872",
+   "era": "people",
+   "art": "building",
+   "key": true,
+   "title": "Showers for a prison",
+   "who": "François Merry Delabost",
+   "where": "Rouen, France",
+   "country": "France",
+   "text": "Delabost, chief doctor at the Bonne-Nouvelle prison in Rouen, replaced the prisoners' baths with rows of showers. He argued for them on hygiene and on thrift: a shower washed a man with a fraction of the water of a bath. He described the system in a paper in 1875, and the French army put showers in its barracks during the 1870s. Prussia followed in 1879.",
+   "why": "The modern shower began as a cheap way to keep many people clean, not as a luxury.",
+   "box": "water",
+   "sources": [
+    5,
+    6,
+    0
+   ]
+  },
+  {
+   "year": 1883,
+   "date": "1883",
+   "era": "people",
+   "art": "waterdrop",
+   "key": true,
+   "title": "A bath for ten pfennigs",
+   "who": "Oskar Lassar",
+   "where": "Berlin, Germany",
+   "country": "Germany",
+   "text": "At the Berlin Hygiene Exhibition the skin doctor Oskar Lassar set up a shed of corrugated iron with ten shower cubicles and charged a few pfennigs for a warm shower with soap. Thousands of visitors paid to try it. He went on to found the German Society for People's Baths in 1899, with the slogan 'a weekly bath for every German'.",
+   "why": "Lassar showed that a city could wash its poor with showers at a price they could pay.",
+   "sources": [
+    7,
+    8
+   ]
+  },
+  {
+   "year": 1887,
+   "date": "22 December 1887",
+   "era": "people",
+   "art": "building",
+   "title": "Vienna's 'little drip baths'",
+   "who": "City of Vienna",
+   "where": "Vienna, Austria",
+   "country": "Austria",
+   "text": "Vienna opened its first public shower bath at Mondscheingasse 9, with places for 42 men and 24 women. 78,000 people came in the first year. At busy times the tanks in the attic could not keep up and the showers only dripped, so the Viennese called them Tröpferlbäder: drip baths.",
+   "why": "A shower fed from a tank just overhead has little pressure to share. Every home with an overhead tank knows the feeling.",
+   "box": "head",
+   "sources": [
+    9
+   ]
+  },
+  {
+   "year": 1891,
+   "date": "August 1891",
+   "era": "people",
+   "art": "building",
+   "title": "Rain baths for New York",
+   "who": "Simon Baruch and the Association for Improving the Condition of the Poor",
+   "where": "New York, USA",
+   "country": "USA",
+   "text": "The People's Baths opened at 9 Centre Market Place with 23 showers and three tubs. A wash with soap and a towel cost five cents. Dr Simon Baruch had persuaded the charity that 'rain baths' were quicker, cheaper and cleaner than tubs. In 1895 New York State told its large cities to build free public baths.",
+   "why": "By 1900 the shower was a tool of public health on both sides of the Atlantic.",
+   "sources": [
+    10,
+    11
+   ]
+  },
+  {
+   "year": 1913,
+   "date": "1913",
+   "era": "clever",
+   "art": "thermometer",
+   "key": true,
+   "title": "A valve that holds the temperature",
+   "who": "Frederick Leonard",
+   "where": "Brooklyn, New York, then Rhode Island, USA",
+   "country": "USA",
+   "text": "Leonard began making thermostatic water mixing valves, which sense the mixed water and adjust hot and cold by themselves. Within a year they were at work in hospitals across New England, where a scald could be fatal. The company gives 1913 as its founding year.",
+   "why": "It was the first step from mixing by hand to a shower that looks after its own temperature.",
+   "box": "thermo",
+   "sources": [
+    14
+   ]
+  },
+  {
+   "year": 1927,
+   "date": "1927",
+   "era": "clever",
+   "art": "sprayarm",
+   "title": "A head you can adjust",
+   "who": "Speakman Company",
+   "where": "Wilmington, Delaware, USA",
+   "country": "USA",
+   "text": "Speakman introduced the Anystream shower head. A lever moved small plungers in the nozzles, changing the spray from a fine needle to a gentle flood.",
+   "why": "The feel of a shower is set by its nozzles. Now the bather could change them with a finger.",
+   "box": "head",
+   "sources": [
+    15
+   ]
+  },
+  {
+   "year": 1927,
+   "date": "c. 1927–1930s",
+   "era": "clever",
+   "art": "plug",
+   "title": "Brazil's electric shower head",
+   "who": "Francisco Canhos (attributed)",
+   "where": "Jaú, São Paulo, Brazil",
+   "country": "Brazil",
+   "text": "Brazilian accounts credit Francisco Canhos with building a shower head that heats the water as it passes: a wire element inside the head, switched on by a rubber diaphragm when water flows. Sources give 1927 or the 1930s. The maker Lorenzetti took it up in the 1950s, and it became the usual shower in Brazilian homes.",
+   "why": "No tank and no hot pipe: a different answer to the same problem, for a warm country with electricity at hand.",
+   "box": "water",
+   "sources": [
+    16
+   ]
+  },
+  {
+   "year": 1928,
+   "date": "1928",
+   "era": "clever",
+   "art": "tap",
+   "key": true,
+   "title": "The hand shower",
+   "who": "Hans Grohe",
+   "where": "Schiltach, Germany",
+   "country": "Germany",
+   "text": "Hans Grohe, a maker of metal bathroom goods in the Black Forest, brought out a hand shower with a white porcelain handle. It cost much less than a fixed overhead shower and could be fitted to an ordinary bath.",
+   "why": "The hand shower on a hose put showering within reach of homes that only had a tub and a tap.",
+   "box": "anatomy",
+   "sources": [
+    17
+   ]
+  },
+  {
+   "year": 1934,
+   "date": "1934",
+   "era": "clever",
+   "art": "flask",
+   "key": true,
+   "title": "A capsule of wax that pushes",
+   "who": "Sergius Vernet",
+   "where": "USA",
+   "country": "USA",
+   "text": "Sergius Vernet invented the wax thermostatic element. Wax swells strongly as it melts, and sealed in a small metal cup it pushes a pin out with great force. Its first job was the thermostat in car engines.",
+   "why": "The same small capsule now sits inside nearly every thermostatic shower valve.",
+   "box": "thermo",
+   "sources": [
+    18
+   ]
+  },
+  {
+   "year": 1936,
+   "date": "1936–1937",
+   "era": "clever",
+   "art": "thermometer",
+   "title": "Thermostatic showers reach Britain",
+   "who": "Walker Crosweller & Co.",
+   "where": "Cheltenham, England",
+   "country": "United Kingdom",
+   "text": "The London firm Walker Crosweller began selling Leonard thermostatic mixing valves under licence, and moved to Cheltenham in 1937. By about 1950 its valves were the usual choice for showers in British schools and hospitals. The firm later became Mira Showers.",
+   "why": "Institutions adopted the thermostatic shower first, because they wash many people who cannot test the water themselves.",
+   "box": "thermo",
+   "sources": [
+    19
+   ]
+  },
+  {
+   "year": 1937,
+   "date": "1937–1947",
+   "era": "clever",
+   "art": "tap",
+   "title": "One handle for hot and cold",
+   "who": "Alfred Moen",
+   "where": "Seattle, USA",
+   "country": "USA",
+   "text": "As a student, Al Moen scalded his hands at a two-handle tap and decided one handle should do the job. His single-handle mixing faucet went on sale in 1947, made by Ravenna Metal Products in Seattle.",
+   "why": "One movement sets the mix and another the flow: the idea behind today's single-lever shower mixers.",
+   "box": "mixing",
+   "sources": [
+    20
+   ]
+  },
+  {
+   "year": 1939,
+   "date": "1939",
+   "era": "clever",
+   "art": "piston",
+   "key": true,
+   "title": "The pressure-balancing valve",
+   "who": "Paul Symmons",
+   "where": "Boston, USA",
+   "country": "USA",
+   "text": "Paul Symmons founded his company in Boston in 1939 and is credited with the pressure-balancing shower valve, sold as the Safetymix: a piston that slides to keep the hot and cold pressures equal, so a flushed toilet no longer scalds the person in the shower. A smaller version, the Temptrol, followed in 1968.",
+   "why": "It cured the commonest cause of a sudden burst of hot water with one moving part.",
+   "box": "balance",
+   "sources": [
+    21,
+    22,
+    40
+   ]
+  },
+  {
+   "year": 1947,
+   "date": "1947",
+   "era": "clever",
+   "art": "thermometer",
+   "key": true,
+   "title": "How fast hot water burns",
+   "who": "Alan Moritz and F. C. Henriques",
+   "where": "Harvard Medical School, Boston, USA",
+   "country": "USA",
+   "text": "Moritz and Henriques measured how long skin can bear each temperature before it burns. At 44 °C it took about six hours. With every degree above that the time roughly halved, so that at 60 °C a deep burn took only a few seconds.",
+   "why": "Their curve is still the basis of every scald limit on a shower valve.",
+   "box": "water",
+   "sources": [
+    23,
+    24
+   ]
+  },
+  {
+   "year": 1953,
+   "date": "1953",
+   "era": "clever",
+   "art": "wrench",
+   "title": "The wall bar",
+   "who": "Hans Grohe",
+   "where": "Schiltach, Germany",
+   "country": "Germany",
+   "text": "Aged over 80, Hans Grohe introduced the Unica wall bar: a rail with a sliding holder, so that a hand shower could be set at any height and used as an overhead shower.",
+   "why": "One hand shower now did for a child and an adult, and the fixed head was no longer needed.",
+   "box": "anatomy",
+   "sources": [
+    17
+   ]
+  },
+  {
+   "year": 1960,
+   "date": "1960",
+   "era": "clever",
+   "art": "tap",
+   "title": "Bath fittings made in Delhi",
+   "who": "N. L. Mehra",
+   "where": "Delhi, India",
+   "country": "India",
+   "text": "N. L. Mehra started a bath fittings business in Delhi under the brand Essco. His sons launched the Jaquar brand in 1986, named after their grandmother Jai Kaur, and it grew into one of India's largest makers of taps, mixers and showers.",
+   "why": "As Indian homes gained geysers and overhead tanks, the wall mixer and shower became ordinary bathroom fittings.",
+   "sources": [
+    25,
+    26
+   ]
+  },
+  {
+   "year": 1968,
+   "date": "1968",
+   "era": "clever",
+   "art": "sprayarm",
+   "title": "Choose your spray",
+   "who": "Hansgrohe",
+   "where": "Schiltach, Germany",
+   "country": "Germany",
+   "text": "Hansgrohe's Selecta hand shower let the user switch between kinds of spray by turning the head. More than 30 million were sold.",
+   "why": "Soft rain or hard needles became a setting, not a different shower.",
+   "box": "head",
+   "sources": [
+    17
+   ]
+  },
+  {
+   "year": 1975,
+   "date": "1975",
+   "era": "clever",
+   "art": "plug",
+   "title": "Britain's electric shower",
+   "who": "Triton",
+   "where": "Warwickshire, England",
+   "country": "United Kingdom",
+   "text": "Triton was incorporated in May 1975, one of several British firms making electric showers: a wall box that takes cold mains water and heats it as it flows.",
+   "why": "British houses stored hot water in a low-pressure tank. The electric shower needed neither the tank nor a pump.",
+   "box": "water",
+   "sources": [
+    27
+   ]
+  },
+  {
+   "year": 1976,
+   "date": "July 1976 to January 1977",
+   "era": "count",
+   "art": "cell",
+   "key": true,
+   "title": "A new disease in the water",
+   "who": "Joseph McDade and the US Centers for Disease Control",
+   "where": "Philadelphia, USA",
+   "country": "USA",
+   "text": "After an American Legion convention at a Philadelphia hotel, 182 people fell ill with pneumonia and 29 died. In January 1977 Joseph McDade identified the cause: a bacterium, later named Legionella, that had bred in the hotel's cooling tower. It grows in warm, standing water and is breathed in as fine spray.",
+   "why": "This is why stored hot water is kept at 60 °C and mixed down at the shower.",
+   "box": "thermo",
+   "sources": [
+    28,
+    29
+   ]
+  },
+  {
+   "year": 1994,
+   "date": "1 January 1994",
+   "era": "count",
+   "art": "waterdrop",
+   "key": true,
+   "title": "A legal limit on flow",
+   "who": "United States Congress (Energy Policy Act of 1992)",
+   "where": "USA",
+   "country": "USA",
+   "text": "Before the law there was no limit on how much water an American shower head could pass. From 1 January 1994 none could be made to pass more than 9.5 litres (2.5 US gallons) a minute, measured at a pressure of 5.5 bar (80 psi).",
+   "why": "It was the first national limit on how much water a shower may use, and it forced makers to rethink the nozzle.",
+   "box": "water",
+   "sources": [
+    30,
+    31
+   ]
+  },
+  {
+   "year": 2003,
+   "date": "2003",
+   "era": "count",
+   "art": "sprayarm",
+   "title": "The big rain head, with air",
+   "who": "Hansgrohe",
+   "where": "Schiltach, Germany",
+   "country": "Germany",
+   "text": "Hansgrohe launched the Raindance, a wide, flat head whose spray is mixed with air drawn in through the head. The maker says each litre of water carries about three litres of air.",
+   "why": "Air-filled drops feel fuller, so a head can please with less water.",
+   "box": "head",
+   "sources": [
+    17,
+    37
+   ]
+  },
+  {
+   "year": 2010,
+   "date": "4 March 2010",
+   "era": "count",
+   "art": "leaf",
+   "title": "A label for thrifty heads",
+   "who": "US Environmental Protection Agency",
+   "where": "USA",
+   "country": "USA",
+   "text": "The WaterSense specification for shower heads set a maximum of 7.6 litres (2.0 gallons) a minute, with tests of spray force and coverage so that a labelled head still feels like a proper shower.",
+   "why": "Saving water only works if people keep the head on the wall.",
+   "box": "water",
+   "sources": [
+    33,
+    32
+   ]
+  },
+  {
+   "year": 2010,
+   "date": "2010",
+   "era": "count",
+   "art": "thermometer",
+   "title": "A temperature limit for new homes",
+   "who": "Building Regulations, Part G",
+   "where": "England",
+   "country": "United Kingdom",
+   "text": "A change to the building rules required new homes in England to limit the hot water at the bath to 48 °C, normally with a thermostatic mixing valve.",
+   "why": "Scald protection moved from hospitals into ordinary houses. In North America the shower-valve standard ASSE 1016 sets a limit stop at 49 °C and allows the outlet to move no more than 2 °C when a supply pressure changes.",
+   "box": "thermo",
+   "sources": [
+    35,
+    39,
+    38
+   ]
+  },
+  {
+   "year": 2018,
+   "date": "July 2018",
+   "era": "count",
+   "art": "waterdrop",
+   "title": "California goes lower",
+   "who": "California Energy Commission",
+   "where": "California, USA",
+   "country": "USA",
+   "text": "In a long drought, California cut the limit for new shower heads to 7.6 litres a minute in 2016 and to 6.8 litres (1.8 gallons) in July 2018, the strictest in the United States.",
+   "why": "The legal flow of a shower had fallen by more than a quarter in 25 years.",
+   "box": "water",
+   "sources": [
+    34,
+    31
+   ]
+  },
+  {
+   "year": 2021,
+   "date": "2021",
+   "era": "count",
+   "art": "leaf",
+   "title": "Star ratings for Indian fittings",
+   "who": "Bureau of Indian Standards",
+   "where": "New Delhi, India",
+   "country": "India",
+   "text": "India published IS 17650, a standard that rates taps, showers and other plumbing products with one to three stars according to how little water they pass.",
+   "why": "A buyer can now compare shower heads by flow as well as by looks.",
+   "sources": [
+    36
+   ]
+  }
+ ],
+ "firsts": [
+  {
+   "label": "Bathing floors with drains",
+   "value": "c. 2500 BCE",
+   "who": "Indus cities such as Mohenjo-daro"
+  },
+  {
+   "label": "Picture of people showering",
+   "value": "c. 520–510 BCE",
+   "who": "Athenian water jar attributed to the Antimenes Painter"
+  },
+  {
+   "label": "Patented mechanical shower",
+   "value": "1767",
+   "who": "William Feetham, London"
+  },
+  {
+   "label": "Showers for mass washing",
+   "value": "1872",
+   "who": "François Merry Delabost, Rouen prison"
+  },
+  {
+   "label": "Public shower bath in Vienna",
+   "value": "1887",
+   "who": "City of Vienna, Mondscheingasse"
+  },
+  {
+   "label": "Thermostatic mixing valves in production",
+   "value": "1913",
+   "who": "Leonard, USA"
+  },
+  {
+   "label": "Hand shower with a handle",
+   "value": "1928",
+   "who": "Hans Grohe, Germany"
+  },
+  {
+   "label": "Pressure-balancing shower valve",
+   "value": "1939",
+   "who": "Paul Symmons, Boston (credited)"
+  },
+  {
+   "label": "National limit on shower flow",
+   "value": "1994",
+   "who": "USA: 9.5 litres a minute"
+  }
+ ],
+ "people": [
+  {
+   "name": "William Feetham",
+   "life": "active 1767–1822",
+   "role": "Stove maker and inventor",
+   "from": "England",
+   "note": "Patented the first mechanical shower, worked by a hand pump, in 1767."
+  },
+  {
+   "name": "François Merry Delabost",
+   "life": "1836 – 1918",
+   "role": "Prison doctor",
+   "from": "France",
+   "note": "Put showers in the Rouen prison in 1872 to wash many men with little water."
+  },
+  {
+   "name": "Oskar Lassar",
+   "life": "1849 – 1907",
+   "role": "Dermatologist",
+   "from": "Germany",
+   "note": "Showed cheap public showers in Berlin in 1883 and campaigned for 'a weekly bath for every German'."
+  },
+  {
+   "name": "Simon Baruch",
+   "life": "1840 – 1921",
+   "role": "Physician",
+   "from": "USA (born in Prussia)",
+   "note": "Campaigned for free public 'rain baths' in American cities."
+  },
+  {
+   "name": "Hans Grohe",
+   "life": "1871 – 1955",
+   "role": "Manufacturer",
+   "from": "Germany",
+   "note": "Made the hand shower in 1928 and the wall bar in 1953."
+  },
+  {
+   "name": "Sergius Vernet",
+   "life": "1899 – 1968",
+   "role": "Inventor",
+   "from": "USA",
+   "note": "Invented the wax thermostatic element in 1934, now inside thermostatic shower valves."
+  },
+  {
+   "name": "Alfred Moen",
+   "life": "1916 – 2001",
+   "role": "Inventor",
+   "from": "USA",
+   "note": "Scalded his hands in 1937 and designed the single-handle mixing faucet."
+  },
+  {
+   "name": "Paul Symmons",
+   "life": "active 1939–1987",
+   "role": "Engineer and manufacturer",
+   "from": "USA",
+   "note": "Credited with the pressure-balancing shower valve."
+  },
+  {
+   "name": "Alan Moritz",
+   "life": "20th century",
+   "role": "Pathologist",
+   "from": "USA",
+   "note": "With F. C. Henriques, measured in 1947 how quickly hot water burns skin."
+  },
+  {
+   "name": "Joseph McDade",
+   "life": "born 1940",
+   "role": "Microbiologist",
+   "from": "USA",
+   "note": "Identified the Legionella bacterium in January 1977."
+  }
+ ],
+ "series": [
+  {
+   "id": "flow",
+   "title": "The most water a new shower head may pass (United States)",
+   "unit": "litres a minute",
+   "log": false,
+   "after": "count",
+   "caption": "The federal limit of 1994, the voluntary WaterSense label of 2010, and California's two cuts. Before 1994 there was no limit.",
+   "points": [
+    {
+     "year": 1994,
+     "value": 9.5,
+     "label": "US federal limit: 2.5 gallons (9.5 L) a minute at 80 psi"
+    },
+    {
+     "year": 2010,
+     "value": 7.6,
+     "label": "EPA WaterSense label: 2.0 gallons (7.6 L) a minute"
+    },
+    {
+     "year": 2016,
+     "value": 7.6,
+     "label": "California limit: 2.0 gallons (7.6 L) a minute"
+    },
+    {
+     "year": 2018,
+     "value": 6.8,
+     "label": "California limit: 1.8 gallons (6.8 L) a minute"
+    }
+   ]
+  }
+ ],
+ "facts": [
+  "The modern shower was introduced in a French prison in 1872, to wash prisoners with less water than a bath.",
+  "Vienna's first public showers were nicknamed 'drip baths', because the tanks in the attic could not keep up.",
+  "The wax capsule in a thermostatic shower valve was invented in 1934 for car engines.",
+  "At 60 °C, water burns adult skin in about five seconds. At 49 °C it takes about five minutes.",
+  "Since 1994 no new shower head in the United States may pass more than 9.5 litres a minute."
+ ],
+ "sources": [
+  {
+   "title": "Shower",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shower"
+  },
+  {
+   "title": "Sanitation of the Indus Valley Civilisation",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sanitation_of_the_Indus_Valley_Civilisation"
+  },
+  {
+   "title": "Harappan bathroom",
+   "publisher": "Harappa.com",
+   "url": "https://www.harappa.com/blog/harappan-bathroom"
+  },
+  {
+   "title": "Athenian black-figure hydria, Leiden PC 63 (attributed to the Antimenes Painter)",
+   "publisher": "Classical Art Research Centre, University of Oxford",
+   "url": "https://www.carc.ox.ac.uk/record/D477DF58-D9AB-48A0-9C2E-654DE4F5C55E"
+  },
+  {
+   "title": "A 19th century Regency era shower",
+   "publisher": "Jane Austen's World",
+   "url": "https://janeaustensworld.com/2010/11/11/a-19th-century-regency-era-shower/"
+  },
+  {
+   "title": "François Merry Delabost",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fran%C3%A7ois_Merry_Delabost"
+  },
+  {
+   "title": "François Merry Delabost",
+   "publisher": "Wikipédia (français)",
+   "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Merry_Delabost"
+  },
+  {
+   "title": "Oskar Lassar",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Oskar_Lassar"
+  },
+  {
+   "title": "Lassar, Oscar",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz48326.html"
+  },
+  {
+   "title": "History of Vienna's public baths",
+   "publisher": "City of Vienna",
+   "url": "https://www.wien.gv.at/en/leisure/public-baths-history"
+  },
+  {
+   "title": "Simon Baruch",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Simon_Baruch"
+  },
+  {
+   "title": "Centre Market Place",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Centre_Market_Place"
+  },
+  {
+   "title": "Gas geyser, original, invented by B. W. Maughan, 1868",
+   "publisher": "Science Museum Group Collection",
+   "url": "https://collection.sciencemuseumgroup.org.uk/objects/co48556/gas-geyser"
+  },
+  {
+   "title": "Water heating",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Water_heating"
+  },
+  {
+   "title": "Leonard Valve turns 100",
+   "publisher": "Mechanical Hub",
+   "url": "https://mechanical-hub.com/leonard-valve-turns-100"
+  },
+  {
+   "title": "About us",
+   "publisher": "Speakman",
+   "url": "https://speakman.com/about-us/"
+  },
+  {
+   "title": "Quem inventou o chuveiro elétrico?",
+   "publisher": "Canaltech",
+   "url": "https://canaltech.com.br/produtos/quem-inventou-o-chuveiro-eletrico-217919/"
+  },
+  {
+   "title": "Tradition and innovation",
+   "publisher": "Hansgrohe",
+   "url": "https://www.hansgrohe.com/about-us/values/tradition-and-innovation"
+  },
+  {
+   "title": "Wax thermostatic element",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Wax_thermostatic_element"
+  },
+  {
+   "title": "100 years of Mira",
+   "publisher": "Professional Heating & Plumbing Installer",
+   "url": "https://phpionline.co.uk/feature-articles/100-years-of-mira/"
+  },
+  {
+   "title": "Alfred M. Moen",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alfred_M._Moen"
+  },
+  {
+   "title": "Our history",
+   "publisher": "Symmons Industries",
+   "url": "https://www.symmons.com/why-symmons/our-history"
+  },
+  {
+   "title": "Symmons History 101: the shocking experience that changed showering forever",
+   "publisher": "Symmons Industries",
+   "url": "https://www.symmons.com/symmons-history-101-the-shocking-experience-that-changed-showering-forever/"
+  },
+  {
+   "title": "Studies of Thermal Injury II: The Relative Importance of Time and Surface Temperature in the Causation of Cutaneous Burns (Moritz and Henriques, 1947)",
+   "publisher": "American Journal of Pathology, via PubMed Central",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1934304/"
+  },
+  {
+   "title": "Scalding",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Scalding"
+  },
+  {
+   "title": "Jaquar",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jaquar"
+  },
+  {
+   "title": "How a small bath fittings business in Delhi grew into a market leader: the story of Jaquar Group",
+   "publisher": "YourStory",
+   "url": "https://yourstory.com/smbstory/jaquar-bath-fittings-taps-faucets-business-delhi"
+  },
+  {
+   "title": "Triton Showers",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Triton_Showers"
+  },
+  {
+   "title": "1976 Philadelphia Legionnaires' disease outbreak",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1976_Philadelphia_Legionnaires%27_disease_outbreak"
+  },
+  {
+   "title": "Legionellosis fact sheet",
+   "publisher": "World Health Organization",
+   "url": "https://www.who.int/news-room/fact-sheets/detail/legionellosis"
+  },
+  {
+   "title": "Showerheads: appliance and equipment standards",
+   "publisher": "U.S. Department of Energy",
+   "url": "https://www.energy.gov/eere/buildings/showerheads"
+  },
+  {
+   "title": "Low-flow fixture",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Low-flow_fixture"
+  },
+  {
+   "title": "Showerheads",
+   "publisher": "U.S. Environmental Protection Agency, WaterSense",
+   "url": "https://www.epa.gov/watersense/showerheads"
+  },
+  {
+   "title": "WaterSense Specification for Showerheads (4 March 2010)",
+   "publisher": "U.S. Environmental Protection Agency",
+   "url": "https://www.epa.gov/sites/default/files/2017-01/documents/ws-products-spec-showerheads.pdf"
+  },
+  {
+   "title": "California OKs strict water standards for showerheads",
+   "publisher": "CapRadio (Associated Press), 13 August 2015",
+   "url": "https://capradio.org/articles/2015/08/13/california-oks-strict-water-standards-for-showerheads"
+  },
+  {
+   "title": "A guide to installing thermostatic mixing valves: what, why and how",
+   "publisher": "Designing Buildings",
+   "url": "https://www.designingbuildings.co.uk/wiki/A_guide_to_installing_thermostatic_mixing_valves%3A_what%2C_why_and_how"
+  },
+  {
+   "title": "IS 17650 (Part 2): 2021, Water Efficient Plumbing Products: Requirements, Sanitary Fittings",
+   "publisher": "Bureau of Indian Standards",
+   "url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails_mnd/26836"
+  },
+  {
+   "title": "Hansgrohe Raindance Brausen werden 10",
+   "publisher": "Baulinks",
+   "url": "https://www.baulinks.de/webplugin/2013/1358.php4"
+  },
+  {
+   "title": "Significant changes to the International Plumbing Code 2021: section 412.3, shower valves (ASSE 1016/ASME A112.1016/CSA B125.16)",
+   "publisher": "International Code Council",
+   "url": "https://www.iccsafe.org/wp-content/uploads/2021_SigChanges_IPC_412.3.pdf"
+  },
+  {
+   "title": "Thermostatic mixing valve",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thermostatic_mixing_valve"
+  },
+  {
+   "title": "Pressure-balanced valve",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pressure-balanced_valve"
+  }
+ ]
+}

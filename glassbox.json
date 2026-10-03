@@ -1,0 +1,105 @@
+{
+  "slug": "showerclear",
+  "box": 145,
+  "date": "2026-10-12",
+  "title": "ShowerClear",
+  "question": "How does a bathroom shower work?",
+  "hook": "A shower makes no warm water of its own: it mixes two streams and throws the result through sixty tiny holes. See the mixing sum, the wax capsule and the sliding spool that stop it scalding you, and why a rain shower dribbles under an overhead tank.",
+  "thumbText": "HOW A SHOWER WORKS",
+  "field": "machines",
+  "minutes": 12,
+  "tags": [
+    "shower",
+    "plumbing",
+    "mixing valve",
+    "thermostatic valve",
+    "pressure",
+    "water saving",
+    "bathroom",
+    "geyser",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two pipes in, three ways out",
+      "text": "Cold water comes down from the overhead tank, and a branch of it goes through the geyser. Hot and cold meet in the wall mixer, and a diverter sends the mix to the spout, the overhead head or the hand shower. A bend of water in the floor trap keeps sewer gas out."
+    },
+    {
+      "title": "Warm water is a sum",
+      "text": "Outlet temperature = (hot flow × hot temperature + cold flow × cold temperature) ÷ total flow. Three litres a minute at 60 °C with five at 25 °C gives eight litres a minute at 38 °C. Open another cold tap and the cold pressure dips, so the mix jumps hotter."
+    },
+    {
+      "title": "A spool that balances pressure",
+      "text": "A pressure-balancing valve has a piston that slides towards whichever side is weaker and pinches the stronger one. The pressures behind it stay equal, so the hot-to-cold share holds. The shower goes weaker for a moment, not hotter."
+    },
+    {
+      "title": "Wax that feels the water",
+      "text": "A thermostatic valve keeps a capsule of wax in the mixed water. Warm wax swells and pushes a shuttle that narrows the hot gap and widens the cold one. If the cold supply fails, it shuts the hot off completely."
+    },
+    {
+      "title": "Holes turn pressure into speed",
+      "text": "Nozzles trade pressure for speed: 0.14 bar inside a needle head throws jets out at 4.5 metres a second, and surface tension beads them into drops about 16 cm below. A rain shower has so much open area that an overhead tank can only make it dribble."
+    },
+    {
+      "title": "Litres, units and scalds",
+      "text": "Water used is litres a minute times minutes: eight minutes at 9 L/min is 72 litres, five buckets, against one for a bucket bath. Heating it from 20 to 38 °C takes about 1.6 units of electricity. At 60 °C water burns skin in about five seconds, so store hot and mix down."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Mixing equation",
+      "def": "Outlet temperature = (hot flow × hot temperature + cold flow × cold temperature) ÷ total flow."
+    },
+    {
+      "term": "Wall mixer",
+      "def": "A fitting with a hot inlet, a cold inlet and valves that set how much of each flows into one outlet."
+    },
+    {
+      "term": "Diverter",
+      "def": "A small valve that sends the mixed water to the spout, the overhead shower or the hand shower."
+    },
+    {
+      "term": "Pressure-balancing valve",
+      "def": "A shower valve whose sliding spool keeps the hot and cold pressures equal, so the mix does not change when one supply dips."
+    },
+    {
+      "term": "Thermostatic valve",
+      "def": "A valve in which a wax capsule senses the mixed water and moves a shuttle to hold the temperature you set."
+    },
+    {
+      "term": "Head of water",
+      "def": "The height of the water surface above the outlet. Every metre gives about 0.1 bar of pressure."
+    },
+    {
+      "term": "Nozzle",
+      "def": "A small hole that turns the pressure behind it into a fast jet; jet speed is about √(2 × pressure ÷ density)."
+    },
+    {
+      "term": "Surface tension",
+      "def": "The pull between water molecules at a surface, which pinches a thin jet into drops."
+    },
+    {
+      "term": "Scald",
+      "def": "A burn from hot liquid. Adult skin is seriously burned in about 5 minutes at 49 °C and about 5 seconds at 60 °C."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "showerclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

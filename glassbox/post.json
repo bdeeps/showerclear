@@ -1,0 +1,126 @@
+{
+  "slug": "showerclear",
+  "box": 145,
+  "question": "How does a bathroom shower work?",
+  "url": "https://glassbox.how/e/showerclear/",
+  "app": "https://glassbox.how/showerclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "4,500 years from a jar of water poured on a brick floor to a valve that mixes, measures and protects.\n\n2500 BCE: Bathing floors with drains\n520 BCE: Showers painted on a Greek jar\n1767: The first patented shower\n1872: Showers for a prison\n1883: A bath for ten pfennigs\n1913: A valve that holds the temperature\n\nThe full story, with 30 moments, sources and charts: glassbox.how/e/showerclear/history (link in bio)\n\nThen play with how it works: glassbox.how/showerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #shower #plumbing #mixingvalve #thermostaticvalve #pressure #watersaving #history",
+      "youtube": {
+        "title": "The history of the shower in 45 seconds #shorts",
+        "description": "4,500 years from a jar of water poured on a brick floor to a valve that mixes, measures and protects.\n\n2500 BCE · Bathing floors with drains (Builders of the Indus cities)\n520 BCE · Showers painted on a Greek jar (Attributed to the Antimenes Painter)\n1767 · The first patented shower (William Feetham)\n1872 · Showers for a prison (François Merry Delabost)\n1883 · A bath for ten pfennigs (Oskar Lassar)\n1913 · A valve that holds the temperature (Frederick Leonard)\n\n▶ Full history: https://glassbox.how/e/showerclear/history/\n▶ Play with it: https://glassbox.how/e/showerclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a bathroom shower work?\n\nA shower makes no warm water of its own: it mixes two streams and throws the result through sixty tiny holes. See the mixing sum, the wax capsule and the sliding spool that stop it scalding you, and why a rain shower dribbles under an overhead tank.\n\n→ How does a shower work? Cold water falls from a tank on the roof. A branch of it goes through the geyser.\n→ Hot and cold meet in the wall mixer. A diverter sends the mix to the spout, the head or the hand shower.\n→ A shower does not make warm water. It mixes hot water from the geyser with cold water from the tank.\n→ Open another cold tap and less cold reaches the mixer, so the shower jumps hotter.\n→ A pressure-balancing spool slides towards the weaker side and pinches the stronger one, so the mix holds.\n\nPlay with it yourself. It's free and open source: glassbox.how/showerclear (link in bio)\n\nBox No. 145 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #shower #plumbing #mixingvalve #thermostaticvalve #pressure #watersaving #bathroom #geyser #threejs",
+    "carousel": "Swipe through: How does a bathroom shower work?\n\nA shower makes no warm water of its own: it mixes two streams and throws the result through sixty tiny holes. See the mixing sum, the wax capsule and the sliding spool that stop it scalding you, and why a rain shower dribbles under an overhead tank.\n\nSave this for later, then play with the interactive version at glassbox.how/showerclear (link in bio).\n\nBox No. 145 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #shower #plumbing #mixingvalve #thermostaticvalve #pressure #watersaving",
+    "youtube": {
+      "title": "How does a bathroom shower work? #shorts",
+      "description": "A shower makes no warm water of its own: it mixes two streams and throws the result through sixty tiny holes. See the mixing sum, the wax capsule and the sliding spool that stop it scalding you, and why a rain shower dribbles under an overhead tank.\n\n▶ Play with it: https://glassbox.how/e/showerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/showerclear\n\nBox No. 145 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a bathroom shower work? (interactive explainer)",
+      "description": "A shower makes no warm water of its own: it mixes two streams and throws the result through sixty tiny holes. See the mixing sum, the wax capsule and the sliding spool that stop it scalding you, and why a rain shower dribbles under an overhead tank.\n\n▶ Play with the interactive version: https://glassbox.how/e/showerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/showerclear\n\nIn this video:\n• Two pipes in, three ways out. Cold water comes down from the overhead tank, and a branch of it goes through the geyser.\n• Warm water is a sum. Outlet temperature = (hot flow × hot temperature + cold flow × cold temperature) ÷ total flow.\n• A spool that balances pressure. A pressure-balancing valve has a piston that slides towards whichever side is weaker and pinches the stronger one.\n• Wax that feels the water. A thermostatic valve keeps a capsule of wax in the mixed water.\n• Holes turn pressure into speed. Nozzles trade pressure for speed: 0.14 bar inside a needle head throws jets out at 4.5 metres a second, and surface tension beads them into drops about 16 cm below.\n• Litres, units and scalds. Water used is litres a minute times minutes: eight minutes at 9 L/min is 72 litres, five buckets, against one for a bucket bath.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a bathroom shower work?\n\nA shower makes no warm water of its own: it mixes two streams and throws the result through sixty tiny holes.\n\nPlay with it: https://glassbox.how/e/showerclear/",
+    "linkedin": "How does a bathroom shower work?\n\nA shower makes no warm water of its own: it mixes two streams and throws the result through sixty tiny holes. See the mixing sum, the wax capsule and the sliding spool that stop it scalding you, and why a rain shower dribbles under an overhead tank.\n\n1. Two pipes in, three ways out\n2. Warm water is a sum\n3. A spool that balances pressure\n4. Wax that feels the water\n5. Holes turn pressure into speed\n6. Litres, units and scalds\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 145 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/showerclear/\nCode: https://github.com/bdeeps/showerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T12:08:24.574Z"
+}
